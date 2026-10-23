@@ -1,0 +1,34 @@
+{
+  "id": "altheria-creatuers",
+  "title": "Altheria Creatuers",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "14",
+    "verified": "14"
+  },
+  "authors": [
+    {
+      "name": "Brandin",
+      "discord": "bug_reeper",
+      "flags": {}
+    }
+  ],
+  "flags": {
+    "canUpload": true
+  },
+  "packs": [
+    {
+      "name": "pack-1",
+      "label": "Redone Creatures",
+      "path": "packs/pack-1",
+      "type": "Actor",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+      "flags": {}
+    }
+  ],
+  "description": ""
+}
